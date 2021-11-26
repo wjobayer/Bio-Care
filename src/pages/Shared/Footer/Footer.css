@@ -1,0 +1,13 @@
+.footer{
+    background-color: #357abe;
+    color:white;
+    padding: 30px 20px;
+}
+.icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 300px;
+    margin: auto;
+
+}
